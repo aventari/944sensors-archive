@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_backgndwhite.png.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-hdpi\\backgndwhite.png"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_indeterminate_progress.xml.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_backgndwhite.png.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-xhdpi\\backgndwhite.png"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_backgndblack.png.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-hdpi\\backgndblack.png"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\menu_gatt_services.xml.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_backgndwhite.png.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-mdpi\\backgndwhite.png"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_backgndwhite.png.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-xxhdpi\\backgndwhite.png"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_backgndblack.png.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-xxhdpi\\backgndblack.png"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_backgndblack.png.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-xhdpi\\backgndblack.png"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout_listitem_device.xml.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\layout_gatt_services_characteristics.xml.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_backgndblack.png.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-mdpi\\backgndblack.png"
+    },
+    {
+        "merged": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\menu\\main.xml"
+    }
+]

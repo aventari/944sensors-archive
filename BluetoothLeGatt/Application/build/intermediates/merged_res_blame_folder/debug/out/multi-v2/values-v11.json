@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\fun\\944sensors\\android\\connectivity-samples-main\\connectivity-samples-main\\BluetoothLeGatt\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "650",
+                        "endColumns": "60",
+                        "endOffsets": "706"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "59",
+                        "endOffsets": "110"
+                    }
+                }
+            ]
+        }
+    ]
+}
